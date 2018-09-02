@@ -75,4 +75,10 @@ v6
 *  Define User model
 
 
+# Authentication - Register
+* Configure Passport
+* Add register routes
+* Add register template
+
+
 
