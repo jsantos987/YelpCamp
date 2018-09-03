@@ -80,5 +80,11 @@ v6
 * Add register routes
 * Add register template
 
+# Auth cont. Logout/Navbar
+* Add logout route
+* Prevent user from adding a comment if not signed in
+* Add links to navbar
+* Show/hide auth links correctly
+
 
 
